@@ -78,5 +78,8 @@ public static void main(String[] args) {
 
     }
 ```
+✅ зробити та зберегти (тека Solution) у файл advanced.png скріншот результатів роботи програми, та модифікувати файл README.mdвідповідним чином
+![]()
+
 
 
