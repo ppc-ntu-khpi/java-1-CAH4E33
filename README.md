@@ -65,7 +65,7 @@ public void setTotal(float total) {
 
     }
 ```
-✅ **використати ці методи** в методі в методі ````main```` класу````CustomerTest````
+✅ **використати ці методи** в методі ````main```` класу````CustomerTest````
 ``` java
 public static void main(String[] args) {
         customer cus = new customer();
